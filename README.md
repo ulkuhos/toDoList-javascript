@@ -16,7 +16,7 @@ kullanimi
 
 
 
-![]()
+![](https://github.com/ulkuhos/toDoList-javascript/blob/main/img/todolist.gif)
 ---
-![]()
+![](https://github.com/ulkuhos/toDoList-javascript/blob/main/img/todoprojectimg.jpg)
 ---
