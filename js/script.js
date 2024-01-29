@@ -53,7 +53,7 @@ function getLocalStorage() {
 
 console.log(inputBox);
 function newElement() {
-    if (inputBox.value === "" || inputBox.value === null) {//input bossa ya da bosluk bırakilmissa bildirim goster fonk.u calisir
+    if ((inputBox.value === "") || (inputBox.value.length <= 1 )) {//input bossa ya da bosluk bırakilmissa bildirim goster fonk.u calisir
         toastWarningGoster();
     }else {
         
