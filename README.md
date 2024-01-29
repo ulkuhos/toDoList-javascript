@@ -1,5 +1,5 @@
 # toDoList - with JavaScript 
- *JavsScript ile To Do List Yapimi   
+ *JavaScript ile To Do List Yapimi   
  ---  
  Javascript ile asagidaki islemler yapilmistir;  
 *1:Formu ve input verilerini secme islemleri,  
