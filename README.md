@@ -2,7 +2,7 @@
  *JavaScript ile To Do List Yapimi   
  ---  
  Javascript ile asagidaki islemler yapilmistir;  
-*1:Formu ve input verilerini secme islemleri,  
+*1: Formu ve input verilerini secme islemleri,  
 *2: Submit edilince gelen input bilgilerini UL icerisine ekleme islemleri,  
 *3: Form icindeki bilgiyi sifirlama islemi,  
 *4: Form submit edildiginde adres cubugunda veri gosterilmesinin default ayarda engellenmesi,  
@@ -11,7 +11,7 @@
 *7: Eklenen toDoList lerin ustune tiklandiginde ustu cizgili olmasi.  
 *8: Eklenen toDoListleri sag tarafinda cikan carpi butonlari ile silme  
 *9: Eklenen toDoListlerin localStorage kismina eklenmesi  
-*10:Element eklendiginde ve hata verirken sag üstte uyarı vermesini saglayan Bootstrap Toast bildirimi
+*10: Element eklendiginde ve hata verirken sag üstte uyarı vermesini saglayan Bootstrap Toast bildirimi
 kullanimi  
 
 
